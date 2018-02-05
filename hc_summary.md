@@ -10,6 +10,6 @@ Accessibility is important in this new philosophy. Adaptable pages are accessibl
 
 ### About the Author
 
-Hannah is a student at Gordon College, studying Design. She enjoys copious amounts of Thai food, playing scattegories, and painting. 
+*Hannah is a student at Gordon College, studying Design. She enjoys copious amounts of Thai food, playing scattegories, and painting.* 
 
 [View the full article here.](https://alistapart.com/article/dao)
