@@ -1,3 +1,5 @@
+![Image](https://github.com/hannahcassel/ebb-and-flow/blob/master/hero-image-(1).png)
+
 ## A Dao of Web Design: A Summary
 
 The author senses a disconnect between “the web as we know it, and the web as it would be.” Printed page has been the longstanding norm, and when the web was created, it was adapted to make users most comfortable. What we were most comfortable with at the time was print. Therefore, thoughtless habits were formed. 
