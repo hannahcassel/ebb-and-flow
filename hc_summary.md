@@ -1,4 +1,4 @@
-![Image](https://github.com/hannahcassel/ebb-and-flow/blob/master/hero-image-(1).png)
+![Image](https://github.com/hannahcassel/ebb-and-flow/blob/master/hero_image.png)
 
 ## A Dao of Web Design: A Summary
 
