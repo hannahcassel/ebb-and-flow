@@ -2,5 +2,5 @@
 
 ### A Dao of Web Design
 
-https://github.com/hannahcassel/ebb-and-flow/blob/master/hc_summary.md
-https://github.com/hannahcassel/ebb-and-flow/blob/master/summary.html
+1. https://github.com/hannahcassel/ebb-and-flow/blob/master/hc_summary.md
+2. https://github.com/hannahcassel/ebb-and-flow/blob/master/summary.html
