@@ -11,7 +11,9 @@ h1{text-align: center;
     
 h4{text-align: center;}
     
-.heroimage{text-align: center}
+.heroimage{text-align: center;
+	padding-left: 40px;
+	padding-right: 40px;}
 
 .summarytext{padding-left: 40px;
 	padding-right: 40px;}
