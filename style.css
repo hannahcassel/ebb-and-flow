@@ -25,5 +25,9 @@ h4{text-align: center;}
 max-width: 200px;
 padding-left: 40px;}
 
+@media print and (max-width: 400px)
+
+@media screen and (max-width: 767px)
+
 .author{padding-left: 40px;
 	padding-right: 40px;}
