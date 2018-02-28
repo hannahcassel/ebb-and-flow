@@ -1,3 +1,5 @@
+@media screen and (max-width: 767px) {
+
 .wrapper{max-width: 960px;
   font-family: sans-serif;
   margin-right: auto;
